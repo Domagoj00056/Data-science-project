@@ -1,6 +1,11 @@
 # Data Science Project
 
 [![World Bank SDG Dataset](https://img.shields.io/badge/Data-World%20Bank%20SDG-blue?logo=worldbank&logoColor=white)](https://datacatalog.worldbank.org/search/dataset/0037918/Sustainable-Development-Goals)
+![Python](https://img.shields.io/badge/Python-3.10+-yellow?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-lightgrey?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=matplotlib)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ## What is the project about? 
 
