@@ -1,6 +1,7 @@
-# Data Science Project
+# 🌍 Sustainable Development Goals Data Analysis
 
-![🌍_Sustainable_Development_Goals_Analysis (2)](https://github.com/user-attachments/assets/77c81968-1a2c-46d7-a907-b2bfdbaacc60)
+![image](https://github.com/user-attachments/assets/7b93f470-38e6-4727-8322-058b294ffe9a)
+
 
 
 ![Topic](https://img.shields.io/badge/Topic-Data%20Science-success?logo=data)
