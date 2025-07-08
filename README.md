@@ -16,6 +16,13 @@
 ## What is the project about? 
 This project analyzes a global dataset on Sustainable Development Goals (SDGs), spanning from the 1990s to 2020. The dataset includes environmental, economic, and societal indicators from countries around the world. The aim of this analysis is to uncover trends and correlations between development factors such as urbanization, forestation, economic growth, and transportation.
 
+## Data handling and findings
+The dataset was comprised of many missing values making some indicors limited to only certain perionds or even unusable when missing values were too aboundant
+
+![image](https://github.com/user-attachments/assets/30891934-4803-481c-a9a4-d3a7308bf85d)
+
+
+
 ## Data Source
 
 The data used in this project is sourced from the [World Bank Sustainable Development Goals (SDG) dataset](https://datacatalog.worldbank.org/search/dataset/0037918/Sustainable-Development-Goals).
