@@ -35,6 +35,9 @@ One notable increase occurred between 1999 and 2000, indicating a major expansio
 
 - The analysis also explored data availability and collection trends by year, category, and income group.
 
+[View the full project PDF](https://github.com/Domagoj00056/Data-science-project/blob/main/Full_Project.pdf)
+
+
 ## 🛠 Tools Used
 
 <p align="left">
