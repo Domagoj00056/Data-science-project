@@ -16,11 +16,18 @@
 ## What is the project about? 
 This project analyzes a global dataset on Sustainable Development Goals (SDGs), spanning from the 1990s to 2020. The dataset includes environmental, economic, and societal indicators from countries around the world. The aim of this analysis is to uncover trends and correlations between development factors such as urbanization, forestation, economic growth, and transportation.
 
-## Data handling and findings
-The dataset was comprised of many missing values making some indicors limited to only certain perionds or even unusable when missing values were too aboundant
+## 📊 Data Handling 
+The dataset contained a significant number of missing values, which limited the availability of certain indicators to specific time periods. However, overall data collection showed an upward trend over the years.
 
+One notable increase occurred between 1999 and 2000, indicating a major expansion in data reporting. An exception to this trend was observed between 2018 and 2020, where a noticeable drop in data entries occurred — likely due to the global disruption caused by the COVID-19 pandemic.
 ![image](https://github.com/user-attachments/assets/30891934-4803-481c-a9a4-d3a7308bf85d)
 
+## 📈 Key Insights:
+- A strong positive correlation was found between air travel (flights) and GDP growth — suggesting flights may reflect, rather than drive, economic expansion.
+
+- The relationship between forestation and economic growth is more complex: some growing economies increased forest coverage, others deforested.
+
+- The analysis also explored data availability and collection trends by year, category, and income group.
 
 
 ## Data Source
