@@ -35,6 +35,37 @@ One notable increase occurred between 1999 and 2000, indicating a major expansio
 
 - The analysis also explored data availability and collection trends by year, category, and income group.
 
+## 🛠 Tools Used
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/600px-Jupyter_logo.svg.png" alt="Jupyter" width="48" height="48" style="margin-right:10px; background-color:white; border-radius:6px;" />
+  </a>
+</p>
+
+
+
 
 ## Data Source
 
