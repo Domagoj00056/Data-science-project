@@ -1,6 +1,10 @@
 # 🌍 Sustainable Development Goals Data Analysis
 
-![image](https://github.com/user-attachments/assets/7b93f470-38e6-4727-8322-058b294ffe9a)
+![eart](https://github.com/user-attachments/assets/2c5833ce-f01d-4cb6-882b-2dcf57a8d325)
+
+
+
+
 
 
 
