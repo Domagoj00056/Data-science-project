@@ -17,7 +17,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=matplotlib)
 
 
-## What is the project about? 
+## 🌱 What is the project about? 
 This project analyzes a global dataset on Sustainable Development Goals (SDGs), spanning from the 1990s to 2020. The dataset includes environmental, economic, and societal indicators from countries around the world. The aim of this analysis is to uncover trends and correlations between development factors such as urbanization, forestation, economic growth, and transportation.
 
 ## 📊 Data Handling 
