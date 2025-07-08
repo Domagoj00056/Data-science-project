@@ -24,7 +24,9 @@ This project analyzes a global dataset on Sustainable Development Goals (SDGs), 
 The dataset contained a significant number of missing values, which limited the availability of certain indicators to specific time periods. However, overall data collection showed an upward trend over the years.
 
 One notable increase occurred between 1999 and 2000, indicating a major expansion in data reporting. An exception to this trend was observed between 2018 and 2020, where a noticeable drop in data entries occurred — likely due to the global disruption caused by the COVID-19 pandemic.
-![image](https://github.com/user-attachments/assets/30891934-4803-481c-a9a4-d3a7308bf85d)
+
+![image](https://github.com/user-attachments/assets/444017b4-59d9-47b8-aee8-179b0b2ac781)
+
 
 ## 📈 Key Insights:
 - A strong positive correlation was found between air travel (flights) and GDP growth — suggesting flights may reflect, rather than drive, economic expansion.
